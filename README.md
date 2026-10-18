@@ -12,7 +12,7 @@ Business Profile tidy-up).
 - `assets/styles.css`: shared styles (the theme)
 - `assets/sector.css`: extra components (workflow rows, tool chips) used by the home page
 - `assets/site.js`: home page interactions: menu, missed-jobs calculator, contact form and Cal.com booking
-- `websites.html`: website build offer for any local business (£1,000 build, £75 a month care plan)
+- `websites.html`: website build offer for any local business (build fee plus monthly care plan; prices given on calls, not on the page)
 - `results.html`, `assets/results.*`: example client results dashboard
 - `privacy.html`: privacy policy, linked from the forms and the footer
 - `trades.html`, `professional-services.html`: redirects to the home page (old links keep working)
