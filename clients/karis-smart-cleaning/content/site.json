@@ -1,0 +1,146 @@
+{
+  "_readme": "Single source of truth for business details. Empty strings are hidden on the site (no placeholders are ever shown). Rebuild after editing: node build.mjs",
+
+  "business": {
+    "name": "Karis Smart Cleaning",
+    "legalName": "Karis Smart Cleaning Services Ltd",
+    "companyNumber": "15459605",
+    "registeredIn": "England and Wales",
+    "registeredOffice": "2 Hillside Court, Harvey Road, Guildford, England, GU1 3NA",
+    "baseTown": "Guildford",
+    "county": "Surrey",
+    "postcodeArea": "GU",
+    "phone": "",
+    "phoneDisplay": "",
+    "email": "",
+    "whatsapp": "",
+    "openingHours": [],
+    "googleBusinessProfileUrl": "",
+    "googleReviewUrl": "",
+    "social": {
+      "facebook": "https://www.facebook.com/p/Karis-smart-cleaning-service-100077431834450/"
+    }
+  },
+
+  "areas": [
+    {
+      "slug": "guildford",
+      "name": "Guildford",
+      "lat": 51.2362,
+      "lon": -0.5704,
+      "hub": true,
+      "summary": "Our base. We clean across Guildford, from town-centre flats near the High Street to family homes in Merrow, Burpham, Stoughton and Onslow Village.",
+      "note": "If you are a tenant or landlord near the University of Surrey, ask us about end of tenancy cleans timed around move-out dates."
+    },
+    {
+      "slug": "godalming",
+      "name": "Godalming",
+      "lat": 51.1856,
+      "lon": -0.6146,
+      "summary": "A short drive south-west of Guildford. We clean homes in Godalming and Farncombe, including period cottages and terraces where older surfaces and tiling need a careful approach.",
+      "note": ""
+    },
+    {
+      "slug": "woking",
+      "name": "Woking",
+      "lat": 51.319,
+      "lon": -0.558,
+      "summary": "North of Guildford along the A320. We cover Woking homes and workplaces, including apartments in the town centre and small offices that need a cleaning schedule worked around the working day.",
+      "note": ""
+    },
+    {
+      "slug": "shalford",
+      "name": "Shalford",
+      "lat": 51.214,
+      "lon": -0.565,
+      "summary": "Just south of Guildford on the A281. Regular and one-off cleans for Shalford homes, from cottages near the common to larger family houses.",
+      "note": ""
+    },
+    {
+      "slug": "bramley",
+      "name": "Bramley",
+      "lat": 51.195,
+      "lon": -0.558,
+      "summary": "On the A281 between Shalford and Cranleigh. We clean Bramley homes weekly, fortnightly or as a one-off deep clean.",
+      "note": ""
+    },
+    {
+      "slug": "wonersh",
+      "name": "Wonersh",
+      "lat": 51.197,
+      "lon": -0.545,
+      "summary": "A village a few minutes east of Bramley. Home cleaning for Wonersh households, with the same checklist and standards we use in Guildford.",
+      "note": ""
+    },
+    {
+      "slug": "cranleigh",
+      "name": "Cranleigh",
+      "lat": 51.1407,
+      "lon": -0.487,
+      "summary": "The furthest point of our patch, south-east of Guildford. We clean homes and small business premises in and around Cranleigh.",
+      "note": ""
+    }
+  ],
+
+  "testimonials": [],
+
+  "faqs": [
+    {
+      "q": "Which areas do you cover?",
+      "a": "We are based in Guildford and cover Godalming, Woking, Shalford, Bramley, Wonersh and Cranleigh. If you are just outside these areas, send a quote request anyway and we will tell you honestly whether we can help."
+    },
+    {
+      "q": "How do I get a price?",
+      "a": "Fill in the two-minute quote form with your postcode, the type of clean and the size of the property. We will reply with a clear quote and confirm exactly what is included before any work is booked."
+    },
+    {
+      "q": "What is the difference between a regular clean and a deep clean?",
+      "a": "A regular clean keeps a home on top form week to week: kitchens, bathrooms, dusting, floors and tidying. A deep clean is a one-off, top-to-bottom reset that also covers the areas a routine visit does not, such as skirting boards, limescale build-up, behind movable furniture and inside appliances on request."
+    },
+    {
+      "q": "Do you clean offices and commercial premises?",
+      "a": "Yes. We clean offices, studios and small commercial premises, on a schedule agreed with you so cleaning fits around your working day."
+    },
+    {
+      "q": "Can I choose what is included?",
+      "a": "Yes. Every quote starts from our standard checklist, and you can add or remove tasks. Tell us about anything specific, such as inside the oven, inside windows or a particular room, when you request a quote."
+    },
+    {
+      "q": "Do I need to be at home during the clean?",
+      "a": "Not necessarily. Whether you would like to be home or not, we will agree access arrangements with you when we confirm the booking."
+    }
+  ],
+
+  "forms": {
+    "subject": "New quote request: Karis Smart Cleaning website"
+  },
+
+  "analytics": {
+    "ga4MeasurementId": ""
+  },
+
+  "credit": {
+    "label": "Website by Brooks Process Solutions",
+    "url": "https://devinb96.github.io/"
+  },
+
+  "environments": {
+    "preview": {
+      "siteUrl": "https://devinb96.github.io/karis-smart-cleaning/",
+      "out": "../../karis-smart-cleaning",
+      "noindex": true,
+      "banner": "Design preview by Brooks Process Solutions. Quote requests sent from this preview go to the agency, not yet to Karis Smart Cleaning.",
+      "formEndpoint": "https://formsubmit.co/ajax/91353fed478083e64f7aa009c8da68a5",
+      "formSubjectSuffix": " (preview site)"
+    },
+    "production": {
+      "_readme": "Set siteUrl to the client's domain and formEndpoint to the client's own form endpoint before building for launch.",
+      "siteUrl": "",
+      "out": "dist",
+      "noindex": false,
+      "banner": "",
+      "formEndpoint": "",
+      "formSubjectSuffix": ""
+    }
+  }
+}

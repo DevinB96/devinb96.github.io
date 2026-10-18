@@ -1,0 +1,64 @@
+{
+  "_readme": "Room-by-room checklist for the 'Inside the clean' 3D section. 'in' lists which clean types include the task: regular, deep, tenancy. 'hotspot' names a label anchor in the 3D model (src/assets/js/maquette.js).",
+  "levels": [
+    { "id": "regular", "name": "Regular clean", "service": "regular-home-cleaning" },
+    { "id": "deep", "name": "Deep clean", "service": "deep-cleaning" },
+    { "id": "tenancy", "name": "End of tenancy", "service": "end-of-tenancy-cleaning" }
+  ],
+  "rooms": [
+    {
+      "id": "kitchen",
+      "name": "Kitchen",
+      "intro": "Where most of the work is. Grease and fingerprints come off every surface you touch.",
+      "items": [
+        { "t": "Worktops, splashbacks and cupboard fronts", "in": ["regular", "deep", "tenancy"], "hotspot": "worktop" },
+        { "t": "Hob surface and appliance exteriors", "in": ["regular", "deep", "tenancy"], "hotspot": "hob" },
+        { "t": "Sink and taps cleaned and polished", "in": ["regular", "deep", "tenancy"], "hotspot": "sink" },
+        { "t": "Extractor hood and tiles degreased", "in": ["deep", "tenancy"], "hotspot": "hood" },
+        { "t": "Inside the oven and fridge", "in": ["tenancy"], "hotspot": "fridge" },
+        { "t": "Inside every cupboard and drawer", "in": ["tenancy"] },
+        { "t": "Behind and under movable appliances", "in": ["deep", "tenancy"] },
+        { "t": "Floors vacuumed and mopped", "in": ["regular", "deep", "tenancy"] }
+      ]
+    },
+    {
+      "id": "bathroom",
+      "name": "Bathroom",
+      "intro": "Cleaned and disinfected, with limescale tackled where it builds up.",
+      "items": [
+        { "t": "Toilet, basin, bath and shower", "in": ["regular", "deep", "tenancy"], "hotspot": "bath" },
+        { "t": "Mirrors and glass polished", "in": ["regular", "deep", "tenancy"], "hotspot": "mirror" },
+        { "t": "Limescale removed from taps and screens", "in": ["deep", "tenancy"], "hotspot": "basin" },
+        { "t": "Grout and sealant scrubbed", "in": ["deep", "tenancy"] },
+        { "t": "Cabinets cleaned inside and out", "in": ["tenancy"] },
+        { "t": "Floors mopped", "in": ["regular", "deep", "tenancy"] }
+      ]
+    },
+    {
+      "id": "living",
+      "name": "Living room",
+      "intro": "Dusted, vacuumed and straightened, so the room is ready to relax in.",
+      "items": [
+        { "t": "Reachable surfaces dusted", "in": ["regular", "deep"], "hotspot": "shelf" },
+        { "t": "Carpets, rugs and hard floors", "in": ["regular", "deep", "tenancy"], "hotspot": "rug" },
+        { "t": "Behind and under movable furniture", "in": ["deep"], "hotspot": "sofa" },
+        { "t": "Skirting boards, doors and frames washed", "in": ["deep", "tenancy"] },
+        { "t": "Radiators, sockets and switches", "in": ["deep", "tenancy"] },
+        { "t": "Interior window glass and sills", "in": ["deep", "tenancy"], "hotspot": "window" }
+      ]
+    },
+    {
+      "id": "bedroom",
+      "name": "Bedroom",
+      "intro": "A calm, fresh room at the end of the day.",
+      "items": [
+        { "t": "Beds made, with fresh linen if left out", "in": ["regular", "deep"], "hotspot": "bed" },
+        { "t": "Surfaces and bedside tables dusted", "in": ["regular", "deep"], "hotspot": "bedside" },
+        { "t": "Floors vacuumed and mopped", "in": ["regular", "deep", "tenancy"] },
+        { "t": "Inside wardrobes and drawers", "in": ["tenancy"], "hotspot": "wardrobe" },
+        { "t": "Skirting boards and light fittings", "in": ["deep", "tenancy"] },
+        { "t": "Under the bed, where it can be moved", "in": ["deep"] }
+      ]
+    }
+  ]
+}

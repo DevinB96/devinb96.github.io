@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<title>Social card</title>
+<style>
+  @font-face { font-family: 'Instrument Serif'; src: url(../src/assets/fonts/instrument-serif-latin-400-normal.woff2) format('woff2'); }
+  @font-face { font-family: 'Instrument Serif'; font-style: italic; src: url(../src/assets/fonts/instrument-serif-latin-400-italic.woff2) format('woff2'); }
+  @font-face { font-family: 'Hanken Grotesk'; font-weight: 100 900; src: url(../src/assets/fonts/hanken-grotesk-latin-wght-normal.woff2) format('woff2'); }
+  html, body { margin: 0; }
+  .card { position: relative; width: 1200px; height: 630px; overflow: hidden; background: #f5f1ea; font-family: 'Hanken Grotesk', sans-serif; color: #17352f; }
+  .img { position: absolute; right: -40px; top: 0; width: 760px; height: 630px; object-fit: cover; }
+  .fade { position: absolute; inset: 0; background: linear-gradient(90deg, #f5f1ea 38%, rgba(245,241,234,.85) 50%, rgba(245,241,234,0) 70%); }
+  .txt { position: absolute; left: 72px; top: 72px; bottom: 72px; width: 560px; display: flex; flex-direction: column; justify-content: space-between; }
+  .brand { display: flex; align-items: center; gap: 16px; }
+  .brand svg { width: 56px; height: 56px; }
+  .brand b { font-family: 'Instrument Serif', serif; font-weight: 400; font-size: 40px; line-height: .9; display: block; }
+  .brand small { display: block; font-size: 13px; letter-spacing: .24em; text-transform: uppercase; font-weight: 600; color: #6b7672; margin-top: 4px; }
+  h1 { font-family: 'Instrument Serif', serif; font-weight: 400; font-size: 76px; line-height: .98; letter-spacing: -.02em; margin: 0; }
+  h1 em { color: #2f5a50; }
+  .meta { font-size: 21px; color: #44514d; display: flex; gap: 12px; align-items: center; }
+  .meta i { width: 10px; height: 10px; border-radius: 50%; background: #e7cf63; box-shadow: 0 0 0 5px rgba(231,207,99,.3); display: inline-block; }
+</style>
+</head>
+<body>
+<div class="card">
+  <img class="img" id="img" alt="">
+  <div class="fade"></div>
+  <div class="txt">
+    <div class="brand"><svg viewBox="0 0 40 40"><rect width="40" height="40" rx="12" fill="#17352f"/><path d="M11 28.5c4.5-9.5 11.5-14.5 19-16" fill="none" stroke="#e7cf63" stroke-width="3.2" stroke-linecap="round"/><circle cx="29.5" cy="12.6" r="2.4" fill="#fbfaf7"/></svg><div><b>Karis</b><small>Smart Cleaning</small></div></div>
+    <h1 id="t"></h1>
+    <p class="meta"><i></i><span id="m"></span></p>
+  </div>
+</div>
+<script>
+  const q = new URLSearchParams(location.search);
+  document.getElementById('img').src = q.get('img');
+  document.getElementById('t').innerHTML = q.get('title');
+  document.getElementById('m').textContent = q.get('meta') || 'Guildford, Godalming, Woking and nearby villages';
+</script>
+</body>
+</html>

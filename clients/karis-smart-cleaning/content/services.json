@@ -1,0 +1,382 @@
+[
+  {
+    "slug": "regular-home-cleaning",
+    "name": "Regular home cleaning",
+    "short": "Weekly or fortnightly cleans that keep your home on top form, to a checklist agreed with you.",
+    "image": "svc-regular",
+    "imageAlt": "Illustrated living room with a sofa, rug and coffee table, freshly tidied",
+    "seoTitle": "Regular House Cleaning in Guildford | Karis Smart Cleaning",
+    "metaDescription": "Weekly, fortnightly or monthly house cleaning across Guildford, Godalming, Woking and nearby villages. One agreed checklist, done properly every visit. Get a free quote.",
+    "h1": "Regular home cleaning in Guildford",
+    "lede": "A steady routine that keeps your home feeling looked after, agreed with you once and done properly every visit.",
+    "intro": [
+      "Life in Surrey is busy. A regular clean takes the weekly jobs off your list, so evenings and weekends are yours again. We agree a checklist with you at the start, then work through it on every visit, room by room.",
+      "Choose weekly, fortnightly or monthly visits. If your needs change, say a guest room that needs attention before visitors, just tell us and we will adjust the plan."
+    ],
+    "idealFor": [
+      "Busy households and working professionals",
+      "Families who want weekends back",
+      "Anyone who would value a hand keeping on top of things at home"
+    ],
+    "includes": [
+      {
+        "group": "Kitchen",
+        "items": [
+          "Worktops, splashbacks and cupboard fronts wiped",
+          "Hob surface and appliance exteriors cleaned",
+          "Sink and taps cleaned and polished",
+          "Floors vacuumed and mopped",
+          "Bins emptied"
+        ]
+      },
+      {
+        "group": "Bathrooms",
+        "items": [
+          "Toilet, basin, bath and shower cleaned",
+          "Mirrors and glass polished",
+          "Wall tiles wiped down",
+          "Floors mopped"
+        ]
+      },
+      {
+        "group": "Living areas and bedrooms",
+        "items": [
+          "Reachable surfaces dusted",
+          "Carpets and rugs vacuumed",
+          "Hard floors mopped",
+          "Beds made, with fresh linen if left out",
+          "General tidy"
+        ]
+      },
+      {
+        "group": "Throughout",
+        "items": [
+          "Light switches and door handles wiped",
+          "Cobwebs removed",
+          "Mirrors and glass surfaces polished"
+        ]
+      }
+    ],
+    "extras": [
+      "Inside the oven",
+      "Inside the fridge",
+      "Interior windows",
+      "Ironing"
+    ],
+    "faqs": [
+      {
+        "q": "How often can you come?",
+        "a": "Weekly, fortnightly or monthly. Tell us your preferred day and how often you would like a visit when you request a quote."
+      },
+      {
+        "q": "Can I change the checklist later?",
+        "a": "Yes. The checklist is yours. Tell us what you would like added, skipped or prioritised and we will update it for future visits."
+      },
+      {
+        "q": "Do you bring cleaning products?",
+        "a": "Let us know your preference when you request a quote, whether you would like us to bring products and equipment or use your own, and we will confirm it in your quote."
+      }
+    ],
+    "related": [
+      "deep-cleaning",
+      "window-cleaning"
+    ]
+  },
+  {
+    "slug": "deep-cleaning",
+    "name": "Deep cleaning",
+    "short": "A one-off, top-to-bottom reset for the corners, limescale and build-up a routine clean does not reach.",
+    "image": "svc-deep",
+    "imageAlt": "Illustrated kitchen with an island, hob and sink, shown in clean natural light",
+    "seoTitle": "Deep Cleaning in Guildford | Karis Smart Cleaning",
+    "metaDescription": "One-off deep cleaning for homes in Guildford and nearby villages: limescale, skirting boards, behind furniture and inside appliances on request. Free quote.",
+    "h1": "Deep cleaning in Guildford",
+    "lede": "A thorough, top-to-bottom clean that resets your home, ideal before a regular routine starts, after a busy season or ahead of a special occasion.",
+    "intro": [
+      "A deep clean goes well beyond the weekly basics. We take the time to clear limescale from taps and shower screens, wash down skirting boards and door frames, clean behind and under furniture we can safely move, and bring kitchens and bathrooms back to their best.",
+      "Many people book a deep clean as a fresh start before regular cleaning begins, before guests arrive, or simply when the house needs more than a quick tidy."
+    ],
+    "idealFor": [
+      "Homes that have not had a professional clean for a while",
+      "Getting ready for guests, a celebration or a sale",
+      "A fresh start before regular cleaning begins"
+    ],
+    "includes": [
+      {
+        "group": "Kitchen",
+        "items": [
+          "Everything in a regular clean",
+          "Cupboard fronts and handles degreased",
+          "Extractor hood and tiles degreased",
+          "Inside the oven and fridge on request",
+          "Behind and under movable appliances"
+        ]
+      },
+      {
+        "group": "Bathrooms",
+        "items": [
+          "Limescale removed from taps, shower heads and screens",
+          "Grout and sealant scrubbed",
+          "Toilet cleaned thoroughly, including the base and behind",
+          "Extractor fans and fittings dusted"
+        ]
+      },
+      {
+        "group": "Living areas and bedrooms",
+        "items": [
+          "Skirting boards, door frames and doors washed",
+          "Radiators and light fittings dusted",
+          "Behind and under movable furniture",
+          "Window sills and interior glass cleaned"
+        ]
+      },
+      {
+        "group": "Throughout",
+        "items": [
+          "Switches, sockets and handles cleaned",
+          "High-level dusting and cobwebs",
+          "Floors vacuumed and mopped edge to edge"
+        ]
+      }
+    ],
+    "extras": [
+      "Inside kitchen cupboards",
+      "Interior windows throughout",
+      "Balcony or patio sweep"
+    ],
+    "faqs": [
+      {
+        "q": "How long does a deep clean take?",
+        "a": "It depends on the size and condition of the property. We will give you a realistic estimate with your quote, so you know what to expect on the day."
+      },
+      {
+        "q": "Can I book a deep clean and then switch to regular cleaning?",
+        "a": "Yes. Many people start with a deep clean so that regular visits can maintain the standard from then on. Mention it when you request a quote."
+      },
+      {
+        "q": "Do you move furniture?",
+        "a": "We clean behind and under furniture that can be moved safely. For heavy or fragile items, we will talk it through with you first."
+      }
+    ],
+    "related": [
+      "regular-home-cleaning",
+      "end-of-tenancy-cleaning"
+    ]
+  },
+  {
+    "slug": "end-of-tenancy-cleaning",
+    "name": "End of tenancy cleaning",
+    "short": "A detailed move-out or move-in clean for tenants, landlords and letting agents, from cupboards to skirting.",
+    "image": "svc-tenancy",
+    "imageAlt": "Illustrated empty bedroom with moving boxes, ready for a move-out clean",
+    "seoTitle": "End of Tenancy Cleaning Guildford | Karis Smart Cleaning",
+    "metaDescription": "End of tenancy cleaning in Guildford, Godalming and Woking for tenants, landlords and agents. Inside cupboards, appliances, bathrooms and floors. Free quote.",
+    "h1": "End of tenancy cleaning in Guildford",
+    "lede": "A detailed clean of an empty property, so you can hand over the keys with confidence, or move into a home that is properly ready for you.",
+    "intro": [
+      "Moving is stressful enough. Our end of tenancy clean covers the areas move-out inspections typically focus on: inside cupboards and drawers, inside the oven, hob and extractor, the fridge, bathrooms, skirting boards, doors and floors.",
+      "We work for tenants, landlords and letting agents across Guildford and the surrounding area, including student lets near the University of Surrey. We cannot decide what a landlord or agent will accept, but we will clean to a detailed checklist and you are welcome to walk through it with us."
+    ],
+    "idealFor": [
+      "Tenants moving out and preparing for a check-out inspection",
+      "Landlords and letting agents between tenancies",
+      "Buyers and tenants moving into a new home"
+    ],
+    "includes": [
+      {
+        "group": "Kitchen",
+        "items": [
+          "Inside all cupboards and drawers",
+          "Inside the oven, hob and extractor",
+          "Fridge and freezer inside and out (defrosted beforehand)",
+          "Worktops, splashbacks, sink and taps",
+          "Floors including edges and under appliances where accessible"
+        ]
+      },
+      {
+        "group": "Bathrooms",
+        "items": [
+          "Limescale removed from taps, screens and tiles",
+          "Toilet, basin, bath and shower deep cleaned",
+          "Cabinets inside and out",
+          "Mirrors, glass and fittings polished"
+        ]
+      },
+      {
+        "group": "Rooms throughout",
+        "items": [
+          "Inside wardrobes and drawers",
+          "Skirting boards, doors and door frames",
+          "Switches, sockets and radiators",
+          "Interior window glass, frames and sills",
+          "Carpets vacuumed and hard floors mopped"
+        ]
+      }
+    ],
+    "extras": [
+      "Carpet cleaning: ask us",
+      "Exterior windows",
+      "Garage or shed sweep"
+    ],
+    "faqs": [
+      {
+        "q": "Does the property need to be empty?",
+        "a": "Ideally, yes. An empty property lets us clean inside every cupboard and along every edge. If some furniture is staying, let us know when you request a quote."
+      },
+      {
+        "q": "Do I need to defrost the fridge?",
+        "a": "Please switch off and defrost the fridge and freezer before the clean, so we can clean them properly inside."
+      },
+      {
+        "q": "Can you work with my letting agent?",
+        "a": "Yes. If your agent has a check-out checklist or inventory notes, send them over with your quote request and we will work to them."
+      }
+    ],
+    "related": [
+      "deep-cleaning",
+      "window-cleaning"
+    ]
+  },
+  {
+    "slug": "office-cleaning",
+    "name": "Office and commercial cleaning",
+    "short": "Reliable cleaning for offices, studios and small commercial premises, scheduled around your working day.",
+    "image": "svc-office",
+    "imageAlt": "Illustrated small office with desks, chairs, plants and a meeting table",
+    "seoTitle": "Office Cleaning in Guildford | Karis Smart Cleaning",
+    "metaDescription": "Office and commercial cleaning in Guildford, Woking and Godalming. Desks, kitchens, washrooms and floors, scheduled around your working day. Request a quote.",
+    "h1": "Office and commercial cleaning in Guildford",
+    "lede": "A clean, healthy workplace your team and visitors notice, delivered on a schedule that fits around your working day.",
+    "intro": [
+      "First impressions matter, and so does a kitchen people are happy to use. We clean offices, studios and small commercial premises across Guildford, Woking and the surrounding area.",
+      "We agree a scope and a schedule with you, whether that is daily, a few times a week or weekly, and keep the same standard every visit."
+    ],
+    "idealFor": [
+      "Offices, studios and co-working spaces",
+      "Small commercial premises and showrooms",
+      "Businesses that want cleaning outside working hours"
+    ],
+    "includes": [
+      {
+        "group": "Workspaces",
+        "items": [
+          "Desks and clear surfaces wiped",
+          "Shared equipment and touchpoints sanitised",
+          "Bins emptied and recycling sorted",
+          "Glass partitions and doors polished"
+        ]
+      },
+      {
+        "group": "Kitchens and break areas",
+        "items": [
+          "Worktops, sinks and taps cleaned",
+          "Appliance exteriors wiped",
+          "Tables and chairs cleaned",
+          "Dishwasher loaded or emptied on request"
+        ]
+      },
+      {
+        "group": "Washrooms",
+        "items": [
+          "Toilets, basins and fittings cleaned",
+          "Mirrors polished",
+          "Consumables restocked from your supplies",
+          "Floors mopped"
+        ]
+      },
+      {
+        "group": "Floors and common areas",
+        "items": [
+          "Carpets vacuumed",
+          "Hard floors mopped",
+          "Entrances and reception tidied"
+        ]
+      }
+    ],
+    "extras": [
+      "Periodic deep cleans",
+      "Interior and exterior windows",
+      "Post-event cleans"
+    ],
+    "faqs": [
+      {
+        "q": "Can you clean outside office hours?",
+        "a": "Tell us the times that work for your business when you request a quote, and we will confirm the schedule we can offer."
+      },
+      {
+        "q": "Do you offer one-off commercial cleans?",
+        "a": "Yes. Alongside regular contracts, we can quote for one-off deep cleans, for example before an office move or after refurbishment."
+      },
+      {
+        "q": "How do you handle keys and alarm codes?",
+        "a": "We agree access arrangements with you before the first clean and keep them to the people who need them."
+      }
+    ],
+    "related": [
+      "window-cleaning",
+      "deep-cleaning"
+    ]
+  },
+  {
+    "slug": "window-cleaning",
+    "name": "Window cleaning",
+    "short": "Clear, streak-free glass, with frames and sills wiped, for homes and businesses.",
+    "image": "svc-windows",
+    "imageAlt": "Illustrated house exterior with large windows catching the sunlight",
+    "seoTitle": "Window Cleaning in Guildford | Karis Smart Cleaning",
+    "metaDescription": "Window cleaning for homes and businesses in Guildford, Godalming, Woking and nearby villages. Glass, frames and sills, inside on request. Get a free, no-obligation quote.",
+    "h1": "Window cleaning in Guildford",
+    "lede": "Clean windows change how a whole room feels. We clean glass, frames and sills for homes and businesses across Guildford and the surrounding villages.",
+    "intro": [
+      "Surrey weather leaves its mark on glass. We clean windows, frames and sills so more light gets in and the outside of your property looks cared for.",
+      "Add interior glass to any visit, or combine window cleaning with a regular or deep clean. When we quote, we will confirm access and exactly which windows we can reach."
+    ],
+    "idealFor": [
+      "Homeowners who want brighter rooms",
+      "Landlords preparing a property for viewings",
+      "Shops and offices where the frontage matters"
+    ],
+    "includes": [
+      {
+        "group": "Every clean",
+        "items": [
+          "Glass cleaned and left streak-free",
+          "Frames wiped down",
+          "Sills cleaned",
+          "Doors with glass panels included"
+        ]
+      },
+      {
+        "group": "On request",
+        "items": [
+          "Interior glass",
+          "Conservatory glass, access permitting",
+          "Combined with a regular or deep clean"
+        ]
+      }
+    ],
+    "extras": [
+      "Interior windows",
+      "Conservatory glass",
+      "Patio doors"
+    ],
+    "faqs": [
+      {
+        "q": "Can you clean upstairs windows?",
+        "a": "Access varies from property to property. Tell us about your home when you request a quote and we will confirm which windows we can safely clean."
+      },
+      {
+        "q": "Can I combine window cleaning with a house clean?",
+        "a": "Yes. Many people add windows to a deep clean or an end of tenancy clean so everything is done in one visit."
+      },
+      {
+        "q": "How often should windows be cleaned?",
+        "a": "Every four to eight weeks suits most homes, but it depends on your location and preferences. We are happy to clean as a one-off too."
+      }
+    ],
+    "related": [
+      "regular-home-cleaning",
+      "office-cleaning"
+    ]
+  }
+]

@@ -16,6 +16,9 @@ Business Profile tidy-up).
 - `privacy.html`: privacy policy, linked from the forms and the footer
 - `trades.html`, `professional-services.html`: redirects to the home page (old links keep working)
 - `404.html`: not-found page
+- `clients/karis-smart-cleaning/`: source, build script and handover docs for the Karis Smart Cleaning client site
+  (see its README). `karis-smart-cleaning/` is the generated preview, served at `/karis-smart-cleaning/` and hidden
+  from search engines.
 - `archive/consultancy-v1/`: archived copy of the earlier AI consultancy site (Audit, Sprint, Partner),
   hidden from search engines. It still runs on `assets/main.js`.
 
